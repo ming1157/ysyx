@@ -1,0 +1,98 @@
+H:/verification_pre/svlab3/arbiter.v {1 {vlog -work work -vopt H:/verification_pre/svlab3/arbiter.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:37 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt H:/verification_pre/svlab3/arbiter.v 
+-- Compiling module arbiter
+
+Top level modules:
+	arbiter
+End time: 23:39:39 on Mar 29,2020, Elapsed time: 0:00:02
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/svlab3/slave_fifo.v {1 {vlog -work work -vopt H:/verification_pre/svlab3/slave_fifo.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:39 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt H:/verification_pre/svlab3/slave_fifo.v 
+-- Compiling module slave_fifo
+
+Top level modules:
+	slave_fifo
+End time: 23:39:40 on Mar 29,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/svlab3/tb1.sv {1 {vlog -work work -vopt -sv H:/verification_pre/svlab3/tb1.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:46 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt -sv H:/verification_pre/svlab3/tb1.sv 
+-- Compiling interface chnl_intf
+-- Compiling module tb1
+-- Importing package chnl_pkg1
+
+Top level modules:
+	tb1
+End time: 23:39:47 on Mar 29,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/svlab3/tb2.sv {1 {vlog -work work -vopt -sv H:/verification_pre/svlab3/tb2.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:47 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt -sv H:/verification_pre/svlab3/tb2.sv 
+-- Compiling interface chnl_intf
+-- Compiling module tb2
+-- Importing package chnl_pkg2
+
+Top level modules:
+	tb2
+End time: 23:39:47 on Mar 29,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/svlab3/mcdt.v {1 {vlog -work work -vopt H:/verification_pre/svlab3/mcdt.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:41 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt H:/verification_pre/svlab3/mcdt.v 
+-- Compiling module mcdt
+
+Top level modules:
+	mcdt
+End time: 23:39:41 on Mar 29,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/svlab3/tb3.sv {1 {vlog -work work -vopt -sv H:/verification_pre/svlab3/tb3.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:48 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt -sv H:/verification_pre/svlab3/tb3.sv 
+-- Compiling interface chnl_intf
+-- Compiling interface mcdt_intf
+-- Compiling module tb3
+-- Importing package chnl_pkg3
+
+Top level modules:
+	tb3
+End time: 23:39:49 on Mar 29,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/svlab3/tb3_ref.sv {1 {vlog -work work -vopt -sv H:/verification_pre/svlab3/tb3_ref.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:49 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt -sv H:/verification_pre/svlab3/tb3_ref.sv 
+-- Compiling interface chnl_intf
+-- Compiling interface mcdt_intf
+-- Compiling module tb3_ref
+-- Importing package chnl_pkg3
+
+Top level modules:
+	tb3_ref
+End time: 23:39:50 on Mar 29,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/svlab3/chnl_pkg3_ref.sv {0 {vlog -work work -vopt -sv H:/verification_pre/svlab3/chnl_pkg3_ref.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 23:39:50 on Mar 29,2020
+vlog -reportprogress 300 -work work -vopt -sv H:/verification_pre/svlab3/chnl_pkg3_ref.sv 
+-- Compiling package chnl_pkg3
+** Error (suppressible): H:/verification_pre/svlab3/chnl_pkg3_ref.sv(469): (vlog-13169) Packed dimension must specify a range.
+** Error (suppressible): H:/verification_pre/svlab3/chnl_pkg3_ref.sv(477): (vlog-13169) Packed dimension must specify a range.
+End time: 23:39:51 on Mar 29,2020, Elapsed time: 0:00:01
+Errors: 2, Warnings: 0
+
+} {} {}}

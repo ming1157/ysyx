@@ -1,0 +1,42 @@
+H:/verification_pre/sv_lab/svlab2/mcdt.v {1 {vlog -work work -vopt -stats=none H:/verification_pre/sv_lab/svlab2/mcdt.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mcdt
+
+Top level modules:
+	mcdt
+
+} {} {}} H:/verification_pre/sv_lab/svlab2/tb4.sv {1 {vlog -work work -vopt -sv -stats=none H:/verification_pre/sv_lab/svlab2/tb4.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface chnl_intf
+-- Compiling package chnl_pkg
+-- Compiling module tb4
+-- Importing package chnl_pkg
+
+Top level modules:
+	tb4
+
+} {} {}} H:/verification_pre/sv_lab/svlab2/arbiter.v {1 {vlog -work work -vopt -stats=none H:/verification_pre/sv_lab/svlab2/arbiter.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module arbiter
+
+Top level modules:
+	arbiter
+
+} {} {}} H:/verification_pre/sv_lab/svlab2/slave_fifo.v {1 {vlog -work work -vopt -stats=none H:/verification_pre/sv_lab/svlab2/slave_fifo.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module slave_fifo
+
+Top level modules:
+	slave_fifo
+
+} {} {}} H:/verification_pre/sv_lab/svlab2/tb2.sv {1 {vlog -work work -vopt -sv -stats=none H:/verification_pre/sv_lab/svlab2/tb2.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface chnl_intf
+-- Compiling module chnl_initiator
+-- Compiling module chnl_generator
+-- Compiling module tb2
+
+Top level modules:
+	tb2
+
+} {} {}}

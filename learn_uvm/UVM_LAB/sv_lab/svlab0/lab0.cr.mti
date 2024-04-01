@@ -1,0 +1,45 @@
+H:/verification_pre/sv_lab/svlab0/slave_fifo.v {1 {vlog -work work -vopt H:/verification_pre/sv_lab/svlab0/slave_fifo.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 15:20:08 on Jul 29,2020
+vlog -reportprogress 300 -work work -vopt H:/verification_pre/sv_lab/svlab0/slave_fifo.v 
+-- Compiling module slave_fifo
+
+Top level modules:
+	slave_fifo
+End time: 15:20:08 on Jul 29,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/sv_lab/svlab0/tb1.v {1 {vlog -work work -vopt H:/verification_pre/sv_lab/svlab0/tb1.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 15:20:09 on Jul 29,2020
+vlog -reportprogress 300 -work work -vopt H:/verification_pre/sv_lab/svlab0/tb1.v 
+-- Compiling module tb1
+
+Top level modules:
+	tb1
+End time: 15:20:10 on Jul 29,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/sv_lab/svlab0/mcdt.v {1 {vlog -work work -vopt H:/verification_pre/sv_lab/svlab0/mcdt.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 15:20:09 on Jul 29,2020
+vlog -reportprogress 300 -work work -vopt H:/verification_pre/sv_lab/svlab0/mcdt.v 
+-- Compiling module mcdt
+
+Top level modules:
+	mcdt
+End time: 15:20:09 on Jul 29,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} H:/verification_pre/sv_lab/svlab0/arbiter.v {1 {vlog -work work -vopt H:/verification_pre/sv_lab/svlab0/arbiter.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 15:20:05 on Jul 29,2020
+vlog -reportprogress 300 -work work -vopt H:/verification_pre/sv_lab/svlab0/arbiter.v 
+-- Compiling module arbiter
+
+Top level modules:
+	arbiter
+End time: 15:20:07 on Jul 29,2020, Elapsed time: 0:00:02
+Errors: 0, Warnings: 0
+
+} {} {}}

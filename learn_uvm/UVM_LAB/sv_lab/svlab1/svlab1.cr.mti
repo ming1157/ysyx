@@ -1,0 +1,64 @@
+H:/verification_pre/sv_lab/svlab1/arbiter.v {1 {vlog -work work -vopt -stats=none H:/verification_pre/sv_lab/svlab1/arbiter.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module arbiter
+
+Top level modules:
+	arbiter
+
+} {} {}} H:/verification_pre/sv_lab/svlab1/tb4.sv {2 {vlog -work work -vopt -sv -stats=none H:/verification_pre/sv_lab/svlab1/tb4.sv
+-- Compiling module tb3
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+
+Top level modules:
+	tb3
+** Warning: (vlog-6) -- Waiting for lock by "MECHREV@DESKTOP-9RU702L, pid = 10800
+". Lockfile is "H:/verification_pre/sv_lab/svlab1/work/_lock".
+-- Compiling module chnl_initiator
+-- Compiling module tb4
+
+Top level modules:
+	tb4
+
+} {} {}} H:/verification_pre/sv_lab/svlab1/slave_fifo.v {1 {vlog -work work -vopt -stats=none H:/verification_pre/sv_lab/svlab1/slave_fifo.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module slave_fifo
+
+Top level modules:
+	slave_fifo
+
+} {} {}} H:/verification_pre/sv_lab/svlab1/tb2.sv {1 {vlog -work work -vopt -sv -stats=none H:/verification_pre/sv_lab/svlab1/tb2.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb2
+
+Top level modules:
+	tb2
+
+} {} {}} H:/verification_pre/sv_lab/svlab1/tb1.v {1 {vlog -work work -vopt -stats=none H:/verification_pre/sv_lab/svlab1/tb1.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb1
+
+Top level modules:
+	tb1
+
+} {} {}} H:/verification_pre/sv_lab/svlab1/mcdt.v {1 {vlog -work work -vopt -stats=none H:/verification_pre/sv_lab/svlab1/mcdt.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mcdt
+
+Top level modules:
+	mcdt
+
+} {} {}} H:/verification_pre/sv_lab/svlab1/tb3.sv {2 {vlog -work work -vopt -sv -stats=none H:/verification_pre/sv_lab/svlab1/tb4.sv
+-- Compiling module tb3
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+
+Top level modules:
+	tb3
+** Warning: (vlog-6) -- Waiting for lock by "MECHREV@DESKTOP-9RU702L, pid = 10800
+". Lockfile is "H:/verification_pre/sv_lab/svlab1/work/_lock".
+-- Compiling module chnl_initiator
+-- Compiling module tb4
+
+Top level modules:
+	tb4
+
+} {} {}}
